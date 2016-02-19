@@ -1,0 +1,14 @@
+
+
+<!ELEMENT cache (#PCDATA)>
+<!ELEMENT directorio (#PCDATA)>
+<!ELEMENT archivo (#PCDATA)>
+<!ATTLIST directorio nombre CDATA #REQUIRED>
+<!ATTLIST directorio tam CDATA #IMPLIED>
+<!ATTLIST directorio fecha CDATA #IMPLIED>
+<!ATTLIST archivo nombre CDATA #REQUIRED>
+<!ATTLIST archivo tam CDATA #REQUIRED>
+<!ATTLIST archivo tipo CDATA #REQUIRED>
+<!ATTLIST archivo fecha CDATA #REQUIRED>
+<!ATTLIST archivo cont CDATA #IMPLIED>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE cache SYSTEM "cache.dtd">
+<cache>
+    <directorio nombre="DirectorioPrivado" tam="1k" fecha="11/02/16"> 
+        <archivo nombre="y" tipo=".txt" tam="1k" fecha="hoy">Georgina</archivo>
+        <archivo nombre="y" tipo=".algo" tam="1k" fecha="hoy">Britny</archivo>
+        <archivo nombre="y" tipo=".algo" tam="1k" fecha="hoy">Viri</archivo>
+        <directorio nombre="Women" tam="1k" fecha="11/02/16">
+            <archivo nombre="y" tipo=".algo" tam="1k" fecha="hoy">Probando con las locas estas.</archivo>
+            <archivo nombre="y" tipo=".algo" tam="1k" fecha="hoy"></archivo>
+            <archivo nombre="y" tipo=".algo" tam="1k" fecha="hoy"></archivo>
+                <directorio nombre="x" tam="1k" fecha="11/02/16">
+                    <archivo nombre="y" tipo=".png" tam="1k" fecha="hoy"></archivo>
+                    <archivo nombre="y" tipo=".pdf" tam="1k" fecha="hoy"></archivo>
+                </directorio>
+        
+        </directorio>
+    
+    </directorio>
+    
+        <directorio nombre="x" tam="1k" fecha="11/02/16">
+            <archivo nombre="y" tipo=".algo" tam="1k" fecha="hoy"></archivo>
+            <archivo nombre="y" tipo=".algo" tam="1k" fecha="hoy"></archivo>
+            <archivo nombre="y" tipo=".algo" tam="1k" fecha="hoy"></archivo>
+        
+       
+    </directorio>
+
+
+</cache>
